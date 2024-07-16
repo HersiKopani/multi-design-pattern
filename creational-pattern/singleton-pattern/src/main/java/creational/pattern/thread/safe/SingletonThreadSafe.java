@@ -10,6 +10,7 @@ public final class SingletonThreadSafe {
         this.value = value;
     }
 
+    // lazy initialization
     public static SingletonThreadSafe getInstance(String value) {
         SingletonThreadSafe result = instance;
         if (result != null) {
