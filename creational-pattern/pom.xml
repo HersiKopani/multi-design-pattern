@@ -10,6 +10,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>singleton-pattern</module>
+        <module>factory-method-pattern</module>
+        <module>abstract-factory-pattern</module>
     </modules>
 
     <properties>
