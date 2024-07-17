@@ -8,9 +8,11 @@ This repository contains examples of various design patterns implemented in Java
 - [Structural Patterns](#structural-patterns)
 - [Behavioral Patterns](#behavioral-patterns)
 
+![img.png](img.png)
+
 ## Creational Patterns
 
-For detailed information on Creational Patterns, please refer to the [Creational Patterns README](creational-pattern/singleton-pattern/README.md).
+For detailed information on Creational Patterns, please refer to the [Creational Patterns README](creational-pattern/README.md).
 
 
 ## Structural Patterns
