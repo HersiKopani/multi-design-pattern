@@ -1,23 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-    <modelVersion>4.0.0</modelVersion>
-
-    <groupId>design.pattern</groupId>
-    <artifactId>creational-pattern</artifactId>
-    <version>1.0-SNAPSHOT</version>
-    <packaging>pom</packaging>
-    <modules>
-        <module>singleton-pattern</module>
-        <module>factory-method-pattern</module>
-        <module>abstract-factory-pattern</module>
-    </modules>
-
-    <properties>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    </properties>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+            
+  
+  
+  
+  <modelVersion>4.0.0</modelVersion>
+            
+  
+  
+  
+  <groupId>design.pattern</groupId>
+            
+  
+  
+  
+  <artifactId>creational-pattern</artifactId>
+            
+  
+  
+  
+  <version>1.0-SNAPSHOT</version>
+            
+  
+  
+  
+  <packaging>pom</packaging>
+            
+  
+  
+  
+  <modules>
+                        
     
+    
+    
+    <module>singleton-pattern</module>
+                        
+    
+    
+    
+    <module>factory-method-pattern</module>
+                        
+    
+    
+    
+    <module>abstract-factory-pattern</module>
+            
+
+    <!--    <module>builder-pattern</module>-->
+          
+    
+    <module>builder-pattern</module>
+      
+  </modules>
+            
+  
+  
+  
+  <properties>
+                        
+    
+    
+    
+    <maven.compiler.source>17</maven.compiler.source>
+                        
+    
+    
+    
+    <maven.compiler.target>17</maven.compiler.target>
+                        
+    
+    
+    
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+                    
+  
+  
+  
+  </properties>
+            
+
+
+
+
 </project>
